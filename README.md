@@ -1,0 +1,1 @@
+# ubuntu-brightness-sync-script
